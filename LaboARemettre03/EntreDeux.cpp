@@ -42,7 +42,7 @@ void main()
       std::cout << "Le dernier chiffre entré n'est pas entre les deux derniers chiffres! \n";
    }
    
-   system("pause");
+   system("pause"); 
 }
 //Plan de test
 // A | B | C | Bonne réponse |
